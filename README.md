@@ -16,4 +16,4 @@ Backend geliştirme konusunda uzmanlaşmak için C# ve SQL gibi teknolojiler üz
 🎯 Hedeflerim:
 - Backend geliştirme alanında uzmanlaşmak ve büyük ölçekli projelerde yer almak
 
-📫 Bana ulaşın: [LinkedIn](https://www.linkedin.com/miraykaragoz)
+📫 Bana ulaşın: [LinkedIn](https://www.linkedin.com/in/miraykaragoz)
