@@ -1,19 +1,19 @@
-👋 Merhaba! Ben Miray Karagöz. Şu anda Acunmedya Akademi'de backend yazılım eğitimi alıyorum. Burada aldığım eğitimlerle, yazılım geliştirme sürecinin her aşamasını öğrenme fırsatı buldum ve bu süreçten büyük keyif alıyorum.
+👋 Hello! I'm Miray Karagöz. Currently, I am undergoing backend software training at Acunmedya Academy. Through the education I receive here, I have the opportunity to learn every phase of the software development process, and I find great joy in this journey.
 
-Backend geliştirme konusunda uzmanlaşmak için C# ve SQL gibi teknolojiler üzerinde yoğunlaşıyorum. Yazılım geliştirme sürecinin her adımında yeni şeyler öğrenmek ve öğrendiklerimi projelerimde uygulamak benim için büyük bir tatmin kaynağı. 
+To specialize in backend development, I am focusing on technologies such as C# and SQL. Learning new things at every step of the software development process and applying what I’ve learned to my projects is a significant source of satisfaction for me.
 
-💻 Uzmanlık Alanlarım:
-- C#
-- SQL
+💻 My Areas of Expertise:
 
-🔭 Şu an üzerinde çalıştığım projeler:
-- Eğitim sürecinde geliştirdiğim çeşitli backend projeleri ve web uygulamaları
+C#
+SQL
+🔭 Current Projects:
 
-🌱 Öğrenmeye ve geliştirmeye devam ettiğim konular:
-- Backend geliştirme ve veri tabanı yönetimi
-- Yeni programlama dilleri ve teknolojiler
+Various backend projects and web applications I have developed during my training
+🌱 Topics I Am Continuously Learning and Improving:
 
-🎯 Hedeflerim:
-- Backend geliştirme alanında uzmanlaşmak ve büyük ölçekli projelerde yer almak
+Backend development and database management
+New programming languages and technologies
+🎯 My Goals:
 
-📫 Bana ulaşın: [LinkedIn](https://www.linkedin.com/in/miraykaragöz)
+To specialize in backend development and participate in large-scale projects
+📫 Contact Me: [LinkedIn](https://www.linkedin.com/in/miraykaragöz)
