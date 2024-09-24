@@ -7,7 +7,7 @@ To specialize in backend development, I am focusing on technologies such as C# a
 - SQL
   
 🔭 Current Projects:
--Various backend projects and web applications I have developed during my training
+- Various backend projects and web applications I have developed during my training
 
 🌱 Topics I Am Continuously Learning and Improving:
 - Backend development and database management
